@@ -1,0 +1,10 @@
+com\todoList\todoList\Controller\WeatherController.class
+com\todoList\todoList\Service\TodoItemService.class
+com\todoList\todoList\dto\Main.class
+com\todoList\todoList\model\TodoItem.class
+com\todoList\todoList\Configuration\WeatherApiConfig.class
+com\todoList\todoList\Controller\TodoItemController.class
+com\todoList\todoList\Repository\TodoItemRepository.class
+com\todoList\todoList\TodoListApplication.class
+com\todoList\todoList\dto\WeatherData.class
+com\todoList\todoList\Service\WeatherService.class
